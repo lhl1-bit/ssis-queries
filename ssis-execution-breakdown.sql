@@ -8,7 +8,7 @@
 	:: INFO
 	Author:		Davide Mauri
 	Version:	1.0
-
+	--small edit by Lisa ;)
 */
 USE SSISDB
 GO
